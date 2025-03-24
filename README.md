@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar Verman</h1>
-<h3 align="center">"AJourney Through Java & Web Development: Exploring Code, Concepts, and Creativity"</h3>
+<h3 align="center">"Just Trying to be the COOL kid"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hahapratik&label=Profile%20views&color=0e75b6&style=flat" alt="hahapratik" /> </p>
 
