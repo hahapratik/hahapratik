@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">"**"Java & DSA: Where NullPointerException is my ex, StackOverflowError is my life story, and brute force is my gym routine. 💻🔥🚀
+<h3 align="center">"**"Java & DSA: Where [NullPointerException] is my ex, [StackOverflowError] is my life story, and [brute] force is my gym routine. 💻🔥🚀
 
 Still compiling… but 99% bug-free (lie). 😭🤖⚡ #SendCoffeeOrCtrlC"**"</h3>
 
