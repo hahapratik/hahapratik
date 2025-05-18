@@ -2,7 +2,7 @@
 <h3 align="center">"AJourney Through Java & Web Development: Exploring Code, Concepts, and Creativity" 💻🔥🚀
 
 
-## 🌐 Socials:
+<!--## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hahapratik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kumar-verman-a19224333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshpoddar570@gmail.com) 
 
 ## 🏆 GitHub Trophies
