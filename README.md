@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">"AJourney Through Java & Web Development: Exploring Code, Concepts, and Creativity" 💻🔥🚀
+<h3 align="center">"Will do something forsure" 💻🔥🚀
 
 
 <!--## 🌐 Socials:
