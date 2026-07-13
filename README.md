@@ -1,47 +1,19 @@
 # Pratik Kumar Verman
-**Aspiring DevOps Engineer | Automating Infrastructure & CI/CD**
+**Aspiring DevOps Engineer** | [Portfolio](https://v0-hahapratik.vercel.app/) | [LinkedIn](https://linkedin.com/in/pratikkumarverman)
 
-Building a full DevOps lab, one pipeline at a time. I focus on rebuilding real-world infrastructure setups—transitioning from manual configurations to automated, scalable, and GitOps-driven workflows.
-
-[🌐 Portfolio](https://v0-hahapratik.vercel.app/) | [🔗 LinkedIn](https://linkedin.com/in/pratikkumarverman) | [📧 Email](mailto:pratikvermann@gmail.com)
-
----
+Building a full DevOps lab, focusing on CI/CD, GitOps, and infrastructure automation.
 
 ### 🛠 Tech Stack
+* **Containers/Orchestration:** Docker, Kubernetes, Argo CD
+* **CI/CD & GitOps:** Jenkins, GitHub Actions, Git
+* **Cloud & IaC:** Terraform, Ansible, AWS, Azure
+* **Systems:** Linux (Arch), Bash, Vim, Fish
+* **Languages:** Python, Java, C/C++, JavaScript
 
-**Containers & Orchestration**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-  <img src="https://skillicons.dev/icons?i=argocd" />
-</p>
-
-**CI/CD & GitOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git" />
-</p>
-
-**Infrastructure & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws,azure" />
-</p>
-
-**Monitoring & Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,linux,bash,vim" />
-</p>
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" />
-</p>
+### 🚀 Projects
+* [**jenkins-cicd-demo**](https://github.com/hahapratik/jenkins-cicd-demo): End-to-end CI/CD lab.
+* [**jenkins-demo**](https://github.com/hahapratik/jenkins-demo): Automated CI pipeline lab.
+* [**BLOG-AWORLD-**](https://github.com/hahapratik/BLOG-AWORLD-): Full-stack web project.
 
 ---
-
-### 🚀 Featured Projects
-* **[jenkins-cicd-demo](https://github.com/hahapratik/jenkins-cicd-demo):** End-to-end CI/CD demonstration taking a web app from commit to deployment using Jenkins, Docker, and Argo CD.
-* **[jenkins-demo](https://github.com/hahapratik/jenkins-demo):** Hands-on continuous integration lab building and running automated pipelines against a Python codebase.
-* **[BLOG-AWORLD-](https://github.com/hahapratik/BLOG-AWORLD-):** A JavaScript-powered blog project demonstrating full-stack web fundamentals.
-
----
-
-*Based in Delhi NCR, India | Currently pursuing BCA '27*
+*Based in Delhi, India | Pursuing BCA '27*
