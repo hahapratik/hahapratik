@@ -43,9 +43,13 @@ Building a full DevOps lab, one pipeline at a time. I focus on rebuilding real-w
 * **[BLOG-AWORLD-](https://github.com/hahapratik/BLOG-AWORLD-):** A JavaScript-powered blog project demonstrating full-stack web fundamentals.
 
 ---
+### 🏆 GitHub Achievements
+![Pratik's Trophies](https://github-profile-trophy.vercel.app/?username=hahapratik&theme=radical&no-bg=true&column=7)
 
-### 📊 GitHub Stats
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hahapratik&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+---
+
+### 📈 Profile Visitors
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hahapratik.hahapratik)
 
 ---
 *Based in Delhi NCR, India | Currently pursuing BCA '27*
