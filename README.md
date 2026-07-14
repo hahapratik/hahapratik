@@ -1,19 +1,32 @@
 # Pratik Kumar Verman
-**Aspiring DevOps Engineer** | [Portfolio](https://v0-hahapratik.vercel.app/) | [LinkedIn](https://linkedin.com/in/pratikkumarverman)
+### Aspiring DevOps Engineer | Automating Infrastructure & CI/CD
 
-Building a full DevOps lab, focusing on CI/CD, GitOps, and infrastructure automation.
-
-### 🛠 Tech Stack
-* **Containers/Orchestration:** Docker, Kubernetes, Argo CD
-* **CI/CD & GitOps:** Jenkins, GitHub Actions, Git
-* **Cloud & IaC:** Terraform, Ansible, AWS, Azure
-* **Systems:** Linux (Arch), Bash, Vim, Fish
-* **Languages:** Python, Java, C/C++, JavaScript
-
-### 🚀 Projects
-* [**jenkins-cicd-demo**](https://github.com/hahapratik/jenkins-cicd-demo): End-to-end CI/CD lab.
-* [**jenkins-demo**](https://github.com/hahapratik/jenkins-demo): Automated CI pipeline lab.
-* [**BLOG-AWORLD-**](https://github.com/hahapratik/BLOG-AWORLD-): Full-stack web project.
+[🌐 Portfolio](https://v0-hahapratik.vercel.app/) • [🔗 LinkedIn](https://linkedin.com/in/pratikkumarverman) • [📧 Email](mailto:pratikvermann@gmail.com)
 
 ---
-*Based in Delhi, India | Pursuing BCA '27*
+
+### 🎯 Professional Focus
+I build automated infrastructure and scalable CI/CD pipelines. My workflow is rooted in GitOps principles, focusing on the end-to-end lifecycle of containerized applications on Kubernetes.
+
+### 🛠 Core Competencies
+* **Orchestration & Containers:** Docker, Kubernetes, Argo CD
+* **CI/CD & Automation:** Jenkins, GitHub Actions
+* **Infrastructure as Code:** Terraform, Ansible, AWS
+* **Systems & Tooling:** Arch Linux, Bash, Vim, Fish Shell
+* **Languages:** 
+    * *Primary:* Python, Java
+    * *Systems/Scripting:* C, C++, Bash
+    * *Web:* JavaScript, HTML/CSS
+      
+### 🏗 Projects
+* **[jenkins-cicd-demo](https://github.com/hahapratik/jenkins-cicd-demo)**
+  A complete CI/CD workflow implementation using Jenkins, Docker, and Argo CD to automate Kubernetes deployments.
+
+* **[jenkins-demo](https://github.com/hahapratik/jenkins-demo)**
+  A foundational CI lab built to demonstrate automated pipeline stages and build testing for Python applications.
+
+* **[BLOG-AWORLD-](https://github.com/hahapratik/BLOG-AWORLD-)**
+  A full-stack web application project focusing on application architecture and deployment patterns.
+
+---
+*📍 Based in Delhi NCR, India | 🎓 Pursuing BCA '27*
