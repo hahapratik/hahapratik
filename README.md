@@ -22,7 +22,7 @@ I build automated infrastructure and scalable CI/CD pipelines. My workflow is ro
 * **[jenkins-cicd-demo](https://github.com/hahapratik/jenkins-cicd-demo)**
   A complete CI/CD workflow implementation using Jenkins, Docker, and Argo CD to automate Kubernetes deployments.
 
-* **[jenkins-demo](https://github.com/hahapratik/jenkins-demo)**
+* **[jenkins](https://github.com/hahapratik/jenkins)**
   A foundational CI lab built to demonstrate automated pipeline stages and build testing for Python applications.
 
 * **[BLOG-AWORLD-](https://github.com/hahapratik/BLOG-AWORLD-)**
