@@ -52,9 +52,13 @@ Personal developer portfolio built with Next.js and deployed on Vercel, showcasi
 ## 🛠 Tech Stack
 
 **Orchestration & Containers:** Docker · Kubernetes · Argo CD
+
 **CI/CD & Automation:** Jenkins · GitHub Actions
+
 **Infrastructure as Code:** Terraform · Ansible · AWS
+
 **Systems & Tooling:** Arch Linux · Bash · Vim · Fish Shell
+
 **Languages:** Python · Java · C · C++ · JavaScript · HTML/CSS
 
 ---
