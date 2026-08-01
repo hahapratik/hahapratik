@@ -2,30 +2,30 @@
 
 **Aspiring DevOps Engineer | Automating Infrastructure & CI/CD**
 
-[Portfolio](https://v0-hahapratik.vercel.app/) · [LinkedIn](https://linkedin.com/in/pratikkumarverman) · [Email](mailto:pratikvermann@gmail.com)
+🌐 [Portfolio](https://v0-hahapratik.vercel.app/) · 🔗 [LinkedIn](https://linkedin.com/in/pratikkumarverman) · 📧 [Email](mailto:pratikvermann@gmail.com)
 
 ---
 
-## Professional Focus
+## 🎯 Professional Focus
 
 I build automated infrastructure and scalable CI/CD pipelines. My workflow is rooted in GitOps principles, focusing on the end-to-end lifecycle of containerized applications on Kubernetes.
 
-## Core Competencies
+## 🛠 Core Competencies
 
-**Orchestration & Containers** — Docker, Kubernetes, Argo CD
+**📦 Orchestration & Containers** — Docker, Kubernetes, Argo CD
 
-**CI/CD & Automation** — Jenkins, GitHub Actions
+**🔁 CI/CD & Automation** — Jenkins, GitHub Actions
 
-**Infrastructure as Code** — Terraform, Ansible, AWS
+**🏗 Infrastructure as Code** — Terraform, Ansible, AWS
 
-**Systems & Tooling** — Arch Linux, Bash, Vim, Fish Shell
+**💻 Systems & Tooling** — Arch Linux, Bash, Vim, Fish Shell
 
-**Languages**
+**🧠 Languages**
 - Primary: Python, Java
 - Systems/Scripting: C, C++, Bash
 - Web: JavaScript, HTML/CSS
 
-## Projects
+## 🚀 Projects
 
 **[portfolio](https://github.com/praatikV/portfolio)**
 Personal developer portfolio built with Next.js and deployed on Vercel, showcasing projects, skills, and a downloadable resume.
