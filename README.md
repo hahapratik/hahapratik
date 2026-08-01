@@ -23,13 +23,13 @@ I build automated infrastructure and scalable CI/CD pipelines. My workflow is ro
 
 ### 🏗 Projects
 
-- **[jenkins-cicd-demo](https://github.com/hahapratik/jenkins-cicd-demo)** A complete CI/CD workflow implementation using Jenkins, Docker, and Argo CD to automate Kubernetes deployments.
+- **[jenkins-cicd-demo](https://github.com/praatikV/jenkins-cicd-demo)** A complete CI/CD workflow implementation using Jenkins, Docker, and Argo CD to automate Kubernetes deployments.
 
-- **[jenkins](https://github.com/hahapratik/jenkins)** A foundational CI lab built to demonstrate automated pipeline stages and build testing for Python applications.
+- **[jenkins](https://github.com/praatikV/jenkins)** A foundational CI lab built to demonstrate automated pipeline stages and build testing for Python applications.
 
-- **[terraform-infra](https://github.com/hahapratik/terraform-infra)** Infrastructure-as-Code setup using Terraform to provision and manage cloud resources declaratively.
+- **[terraform-infra](https://github.com/praatikV/terraform-infra)** Infrastructure-as-Code setup using Terraform to provision and manage cloud resources declaratively.
 
-- **[argocd-gitops](https://github.com/hahapratik/argocd-gitops)** GitOps-driven deployment pipeline using Argo CD to continuously sync Kubernetes manifests from Git to cluster state.
+- **[argocd-gitops](https://github.com/praatikV/argocd-gitops)** GitOps-driven deployment pipeline using Argo CD to continuously sync Kubernetes manifests from Git to cluster state.
 
 ---
 
