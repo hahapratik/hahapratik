@@ -1,95 +1,45 @@
-<div align="center">
+# Hey, I'm Pratik 👋
 
-# Pratik Kumar Verman
+🚀 Aspiring DevOps Engineer, based in Delhi NCR, India.
 
-**Aspiring DevOps Engineer | Automating Infrastructure & CI/CD**
+🌐 [Portfolio](https://v0-hahapratik.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/pratikkumarverman) · 📧 [Email](mailto:pratikvermann@gmail.com)
 
-Building automated infrastructure and scalable CI/CD pipelines, rooted in GitOps principles.
+🛠️ Building a full DevOps lab — CI/CD with Jenkins & Docker, IaC with Terraform, GitOps with Argo CD on Kubernetes.
+🐧 Daily driver: Arch Linux + Fish shell.
+🎓 BCA '27, MDU Rohtak.
+📍 Delhi NCR, India
 
-*Open to DevOps Engineer / Cloud Engineer internship and entry-level roles.*
+### 🧰 Tools
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-v0--hahapratik.vercel.app-grey?style=flat-square)](https://v0-hahapratik.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikkumarverman)
-[![GitHub](https://img.shields.io/badge/GitHub-praatikV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praatikV)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pratikvermann@gmail.com)
+**📦 Containers & Orchestration**
+Docker, Kubernetes, Argo CD
 
-</div>
+**🔁 CI/CD & GitOps**
+Jenkins, GitHub Actions, Git
 
----
+**☁️ Cloud & Infrastructure**
+AWS, Azure, Terraform, Ansible
 
-## 🎯 About
+**📈 Monitoring**
+Prometheus
 
-I build automated infrastructure and scalable CI/CD pipelines. My workflow is rooted in GitOps principles, focusing on the end-to-end lifecycle of containerized applications on Kubernetes.
+**🖥️ Systems & Tooling**
+Linux, Arch Linux, Bash, Vim
 
-Currently focused on: **Argo CD & GitOps, Kubernetes, and Infrastructure as Code with Terraform.**
+**💻 Languages**
+Python, Java, C, C++, JavaScript, HTML, CSS
 
----
+### 🏗️ Projects
+- 🔧 [jenkins-demo](https://github.com/hahapratik/jenkins-demo) — Jenkins CI lab on a Python codebase
+- 🚀 [jenkins-cicd-demo](https://github.com/hahapratik/jenkins-cicd-demo) — Jenkins + Docker + Argo CD pipeline, commit to deploy
+- ⚙️ [Github-Actions](https://github.com/hahapratik/Github-Actions) — automated YAML pipelines for build, test, deploy
+- 📝 [BLOG-AWORLD-](https://github.com/hahapratik/BLOG-AWORLD-) — full-stack blog app in JavaScript
 
-## 🚀 Featured Projects
+### 🌐 Portfolio
+[v0-hahapratik.vercel.app](https://v0-hahapratik.vercel.app/) — terminal-themed developer portfolio, built with Next.js ⚡, deployed on Vercel ▲. Boot animation, live GitHub activity, skills breakdown, and resume download.
 
-### 🧩 [jenkins-cicd-demo](https://github.com/praatikV/jenkins-cicd-demo)
-A complete CI/CD workflow implementation using Jenkins, Docker, and Argo CD to automate Kubernetes deployments.
+### 📊 Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=praatikV&theme=default&hide_border=true)
 
-`Jenkins` `Docker` `Argo CD` `Kubernetes` `CI/CD`
-
-### ⚙️ [Github-Actions](https://github.com/praatikV/Github-Actions)
-CI/CD automation pipeline built with GitHub Actions, covering build, test, and deployment workflows.
-
-`GitHub Actions` `YAML` `CI/CD` `Automation`
-
-### 🔧 [jenkins](https://github.com/praatikV/jenkins)
-A foundational CI lab built to demonstrate automated pipeline stages and build testing for Python applications.
-
-`Jenkins` `Python` `Pipeline` `Testing`
-
-### 🌐 [portfolio](https://github.com/praatikV/portfolio)
-Personal developer portfolio built with Next.js and deployed on Vercel, showcasing projects, skills, and a downloadable resume.
-
-`Next.js` `TypeScript` `Vercel`
-
----
-
-## 🛠 Tech Stack
-
-**Orchestration & Containers:** Docker · Kubernetes · Argo CD
-
-**CI/CD & Automation:** Jenkins · GitHub Actions
-
-**Infrastructure as Code:** Terraform · Ansible · AWS
-
-**Systems & Tooling:** Arch Linux · Bash · Vim · Fish Shell
-
-**Languages:** Python · Java · C · C++ · JavaScript · HTML/CSS
-
----
-
-## 📍 Roadmap
-
-| Stage | Status |
-|---|---|
-| CI/CD fundamentals: Jenkins pipelines | ✅ Done |
-| Containerization: Docker | ✅ Done |
-| CI/CD automation: GitHub Actions | ✅ Done |
-| GitOps: Argo CD + Kubernetes deployments | 🟨 In progress — `jenkins-cicd-demo` |
-| Infrastructure as Code: Terraform, Ansible | 🟨 In progress |
-| Kubernetes at scale: Helm, operators | 🔲 Next |
-| Cloud-native monitoring: Prometheus, Grafana | 🔲 Next |
-
----
-
-<div align="center">
-
-**🤝 Let's Connect!**
-
-I'm always open to:
-
-🔧 Collaborating on **DevOps / infrastructure projects**
-📦 Discussing **CI/CD, Kubernetes, and GitOps**
-📚 Sharing resources and learning together
-⭐ Contributing to open-source DevOps tools
-
-[**LET'S CONNECT ON LINKEDIN**](https://linkedin.com/in/pratikkumarverman)
-
-📍 Based in Delhi NCR, India &nbsp;|&nbsp; 🎓 Pursuing BCA '27
-
-</div>
+### 🤝 Let's connect
+Always up for talking pipelines, Kubernetes, or DevOps in general. Drop by my [portfolio](https://v0-hahapratik.vercel.app/) or say hi on [LinkedIn](https://linkedin.com/in/pratikkumarverman) 🙌
