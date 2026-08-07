@@ -24,7 +24,7 @@ AWS, Azure, Terraform, Ansible
 Prometheus
 
 **🖥️ Systems & Tooling**
-Linux, Arch Linux, Bash, Vim
+Linux, Arch Linux, Bash, Vim, Neovim, VScode 
 
 **💻 Languages**
 Python, Java, C, C++, JavaScript, HTML, CSS
