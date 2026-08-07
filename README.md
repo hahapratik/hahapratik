@@ -38,5 +38,8 @@ Python, Java, C, C++, JavaScript, HTML, CSS
 ### 🌐 Portfolio
 [v0-hahapratik.vercel.app](https://v0-hahapratik.vercel.app/) — terminal-themed developer portfolio, built with Next.js ⚡, deployed on Vercel ▲. Boot animation, live GitHub activity, skills breakdown, and resume download.
 
+### 📊 Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=praatikV&theme=default&hide_border=true)
+
 ### 🤝 Let's connect
 Always up for talking pipelines, Kubernetes, or DevOps in general. Drop by my [portfolio](https://v0-hahapratik.vercel.app/) or say hi on [LinkedIn](https://linkedin.com/in/pratikkumarverman) 🙌
