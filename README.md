@@ -30,10 +30,10 @@ Linux, Arch Linux, Bash, Vim, Neovim, VScode
 Python, Java, C, C++, JavaScript, HTML, CSS
 
 ### 🏗️ Projects
-- 🔧 [jenkins-demo](https://github.com/hahapratik/jenkins-demo) — Jenkins CI lab on a Python codebase
-- 🚀 [jenkins-cicd-demo](https://github.com/hahapratik/jenkins-cicd-demo) — Jenkins + Docker + Argo CD pipeline, commit to deploy
-- ⚙️ [Github-Actions](https://github.com/hahapratik/Github-Actions) — automated YAML pipelines for build, test, deploy
-- 📝 [BLOG-AWORLD-](https://github.com/hahapratik/BLOG-AWORLD-) — full-stack blog app in JavaScript
+- 🔧 [jenkins-demo](https://github.com/praatikV/jenkins-demo) — Jenkins CI lab on a Python codebase
+- 🚀 [jenkins-cicd-demo](https://github.com/praatikV/jenkins-cicd-demo) — Jenkins + Docker + Argo CD pipeline, commit to deploy
+- ⚙️ [Github-Actions](https://github.com/praatikV/Github-Actions) — automated YAML pipelines for build, test, deploy
+- 🌐 [go-web-app](https://github.com/praatikV/go-web-app) — Go `net/http` app devopsified end-to-end: GitHub Actions CI/CD, multi-stage Docker build to a distroless image, Kubernetes Deployment/Service/Ingress, and a Helm chart with automated image-tag bumps on every release
 
 ### 🌐 Portfolio
 [v0-hahapratik.vercel.app](https://v0-hahapratik.vercel.app/) — terminal-themed developer portfolio, built with Next.js ⚡, deployed on Vercel ▲. Boot animation, live GitHub activity, skills breakdown, and resume download.
