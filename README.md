@@ -11,22 +11,22 @@
 
 ### 🧰 Tools
 
-**📦 Containers & Orchestration : ** 
+**📦 Containers & Orchestration : 
 Docker, Kubernetes, Argo CD
 
-**🔁 CI/CD & GitOps : **
+**🔁 CI/CD & GitOps : 
 Jenkins, GitHub Actions, Git
 
-**☁️ Cloud & Infrastructure : **
+**☁️ Cloud & Infrastructure : 
 AWS, Azure, Terraform, Ansible
 
-**📈 Monitoring : **
+**📈 Monitoring : 
 Prometheus, Grafana
 
-**🖥️ Systems & Tooling : **
+**🖥️ Systems & Tooling : 
 Linux, Arch Linux, Bash, Vim, Neovim, VScode 
 
-**💻 Languages : **
+**💻 Languages : 
 Python, Java, C, C++, JavaScript, HTML, CSS
 
 ### 🏗️ Projects
