@@ -21,7 +21,7 @@ Jenkins, GitHub Actions, Git
 AWS, Azure, Terraform, Ansible
 
 **📈 Monitoring** :
-Prometheus, Grafana
+Prometheus,
 
 **🖥️ Systems & Tooling** :
 Linux, Arch Linux, Bash, Vim, Neovim, VScode 
