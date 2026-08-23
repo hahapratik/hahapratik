@@ -27,7 +27,7 @@ Prometheus, Grafana
 Linux, Arch Linux, Bash, Vim, Neovim, VScode 
 
 **💻 Languages** :
-Python, Java, C, C++, HTML, CSS
+Python, Java, C, C++, Javascript, HTML, CSS
 
 ### 🏗️ Projects
 - 🔧 [jenkins-demo](https://github.com/praatikV/jenkins-demo) — Jenkins CI lab on a Python codebase
